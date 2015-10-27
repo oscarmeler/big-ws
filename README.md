@@ -15,7 +15,7 @@ Ismael Rodríguez Hernández | 587429 | [repo](https://github.com/ismaro3/big-ws
 Jorge Martinez Lascorz | 571735 | [repo](https://github.com/JorgeCoke/big-ws) | [![Build Status](https://travis-ci.org/JorgeCoke/big-ws.svg?branch=master)](https://travis-ci.org/JorgeCoke/big-ws) | Hi. I'm testing the translator | Hola. Estoy probando el traductor
 David Nicuesa Aranda | 653224 
 Eduardo Ibanez | 528074 | [repo](https://github.com/EduIbanez/big-ws) | [![Build Status](https://travis-ci.org/EduIbanez/big-ws.svg?branch=master)](https://travis-ci.org/EduIbanez/big-ws) | Sometimes things start to work correctly without a reasonable motive | A veces las cosas empiezan a funcionar correctamente sin un motivo razonable
-Sergio Soro Miranda | 671250 
+Sergio Soro Miranda | 671250 | [repo](https://github.com/teruyi/big-ws) | [![Build Status](https://travis-ci.org/teruyi/big-ws.svg?branch=master)](https://travis-ci.org/teruyi/big-ws) | i'm sergio, who are you? | soy sergio, ¿quién eres tú?
 Alberto Álvarez Aldea | 681687
 Oscar Clemente Pedrico | 530162
 Iñigo Gascón Royo | 685215 
