@@ -26,7 +26,7 @@ Alberto Revel | 628704
 Raul Piracés Alastuey | 490790 | [repo](https://github.com/piraces/big-ws) | [![Build Status] (https://travis-ci.org/piraces/big-ws.svg?branch=master)](https://travis-ci.org/piraces/big-ws) | The greatest glory in living lies not in never falling, but in rising every time we fall. | La mayor gloria en la vida no consiste en nunca caer, sino en levantarnos cada vez que caemos.
 Adrian Moreno Jimeno | 631537 
 Alberto Sabater Bailén | 546297 
-Agustin Navarro Torres | 587570 | [repo](https://github.com/SirBargus/big-ws) | [![Build Status] (https://travis-ci.org/SirBargus/big-ws.svg?branch=master)](https://travis-ci.org/SirBargus/big-ws) | 
+Agustin Navarro Torres | 587570 | [repo](https://github.com/SirBargus/big-ws) | [![Build Status] (https://travis-ci.org/SirBargus/big-ws.svg?branch=master)](https://travis-ci.org/SirBargus/big-ws) | Always take a banana to a party, Rose: bananas are good! |Siempre tome un plátano a una fiesta, Rosa: los plátanos son buenos!
 Alejandro Solanas Bonilla | 647647 
 Christian García Artero | 597578 
 Luis Jesus Pellicer | 520256 
