@@ -33,7 +33,7 @@ Luis Jesus Pellicer | 520256
 Marcos Ruiz García | 648045 
 Óscar Meler Murillo | 608919
 Aron Collados Torres | 626558
-Diego Sánchez Castillo | 628279 
+Diego Sánchez Castillo | 628279 | [repo](https://github.com/diegozgz92/big-ws) | [![Build Status] (https://travis-ci.org/diegozgz92/big-ws.svg?branch=master)](https://travis-ci.org/diegozgz92/big-ws) | I study in Zaragoza | Yo estudio en Zaragoza
 Rubén Gabás Celimendiz | 590738 | [repo](https://github.com/phyrionX/big-ws) | [![Build Status] (https://travis-ci.org/PhyrionX/big-ws.svg?branch=master)](https://travis-ci.org/PhyrionX/big-ws) | The world is mine | El mundo es mío
 Daniel Forcén Esteban | 558471
 Ramón José Arellano Bitrián | 594040 
