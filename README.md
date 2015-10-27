@@ -22,7 +22,7 @@ Iñigo Gascón Royo | 685215
 Adrian Susinos Moreno | 650220 
 Santiago Gil Begué | 683482 | [repo](https://github.com/Santi-7/big-ws) | [![Build Status](https://travis-ci.org/Santi-7/big-ws.svg?branch=master)](https://travis-ci.org/Santi-7/big-ws) | Es it mein Lieblings-Fach | It is my favorite subject
 Carlos Escuín Blasco | 545003 | [repo](https://github.com/xarlieskin/big-ws) | [![Build Status](https://travis-ci.org/xarlieskin/big-ws.svg?branch=master)](https://travis-ci.org/xarlieskin/big-ws) | Have the courage to follow your heart and intuition | Tener el coraje de seguir su corazón e intuición
-Alberto Revel | 628704 | [repo](https://github.com/albertorevel/big-ws) | [![Build Status] (https://travis-ci.org/albertorevel/big-ws.svg?branch=master)](https://travis-ci.org/albertorevel/big-ws) | I want to solve all the problems in order to finish the work | Quiero resolver todos los problemas con el fin de terminar el trabajo
+Alberto Revel Jarne | 628704 | [repo](https://github.com/albertorevel/big-ws) | [![Build Status] (https://travis-ci.org/albertorevel/big-ws.svg?branch=master)](https://travis-ci.org/albertorevel/big-ws) | I want to solve all the problems in order to finish the work | Quiero resolver todos los problemas con el fin de terminar el trabajo
 Raul Piracés Alastuey | 490790 | [repo](https://github.com/piraces/big-ws) | [![Build Status] (https://travis-ci.org/piraces/big-ws.svg?branch=master)](https://travis-ci.org/piraces/big-ws) | The greatest glory in living lies not in never falling, but in rising every time we fall. | La mayor gloria en la vida no consiste en nunca caer, sino en levantarnos cada vez que caemos.
 Adrian Moreno Jimeno | 631537 
 Alberto Sabater Bailén | 546297 
