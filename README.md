@@ -13,7 +13,7 @@ Jorge Cáncer Gil | 646122 | [repo](https://github.com/jorcox/big-ws) | [![Build
 Iñigo Alonso Ruiz | 665959 | [repo](https://github.com/Shathe/big-ws) | [![Build Status](https://travis-ci.org/Shathe/big-ws.svg?branch=master)](https://travis-ci.org/Shathe/big-ws) | I'm just spending time on this travis/ruby thing | Estoy simplemente pasar el tiempo en esta travis/ruby cosa
 Ismael Rodríguez Hernández | 587429 | [repo](https://github.com/ismaro3/big-ws) | [![Build Status](https://travis-ci.org/ismaro3/big-ws.svg?branch=master)](https://travis-ci.org/ismaro3/big-ws) | The ones who always win know nothing about life | Los que siempre ganan no saben nada acerca de la vida
 Jorge Martinez Lascorz | 571735
-David Nicuesa Aranda | 653224 
+David Nicuesa Aranda | 653224 | [repo](https://github.com/Nicu1309/big-ws) | [![Build Status](https://travis-ci.org/Nicu1309/big-ws.svg?branch=master)](https://travis-ci.org/Nicu1309/big-ws) | One does not simply commits this code | Uno no simplemente comete este código
 Eduardo Ibanez | 528074 
 Sergio Soro Miranda | 671250 
 Alberto Álvarez Aldea | 681687
