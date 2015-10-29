@@ -19,7 +19,7 @@ Sergio Soro Miranda | 671250
 Alberto Álvarez Aldea | 681687
 Oscar Clemente Pedrico | 530162
 Iñigo Gascón Royo | 685215 
-Adrian Susinos Moreno | 650220 |(https://github.com/ader9/big-ws) | (https://travis-ci.org/ader9/big-ws.svg?branch=master) (https://travis-ci.org/ader9/big-ws) | Tomorrow I'll travel to St. Petersburg | Mañana me voy de viaje a San Petersburgo
+Adrian Susinos Moreno | 650220 | [repo](https://github.com/ader9/big-ws) | [![Build Status](https://travis-ci.org/ader9/big-ws.svg?branch=master)] (https://travis-ci.org/ader9/big-ws) | Tomorrow I'll travel to St. Petersburg | Mañana me voy de viaje a San Petersburgo
 Santiago Gil Begué | 683482 
 Carlos Escuín Blasco | 545003 
 Alberto Revel | 628704 
