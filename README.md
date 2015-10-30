@@ -19,7 +19,7 @@ Sergio Soro Miranda | 671250 | [repo](https://github.com/teruyi/big-ws) | [![Bui
 Alberto Álvarez Aldea | 681687
 Oscar Clemente Pedrico | 530162
 Iñigo Gascón Royo | 685215 | [repo] (https://github.com/Gascon95/big-ws) | [![Build Status](https://travis-ci.org/Gascon95/big-ws.svg?branch=master)] (https://travis-ci.org/Gascon95/big-ws) | I find your lack of faith disturbing | Creo que su falta de fe inquietante 
-Adrian Susinos Moreno | 650220 | 
+Adrian Susinos Moreno | 650220 | [repo](https://github.com/ader9/big-ws) | [![Build Status](https://travis-ci.org/ader9/big-ws.svg?branch=master)] (https://travis-ci.org/ader9/big-ws) | Tomorrow I'll travel to St. Petersburg | Mañana me voy de viaje a San Petersburgo 
 Santiago Gil Begué | 683482 | [repo](https://github.com/Santi-7/big-ws) | [![Build Status](https://travis-ci.org/Santi-7/big-ws.svg?branch=master)](https://travis-ci.org/Santi-7/big-ws) | Es it mein Lieblings-Fach | It is my favorite subject
 Carlos Escuín Blasco | 545003 | [repo](https://github.com/xarlieskin/big-ws) | [![Build Status](https://travis-ci.org/xarlieskin/big-ws.svg?branch=master)](https://travis-ci.org/xarlieskin/big-ws) | Have the courage to follow your heart and intuition | Tener el coraje de seguir su corazón e intuición
 Alberto Revel Jarne | 628704 | [repo](https://github.com/albertorevel/big-ws) | [![Build Status] (https://travis-ci.org/albertorevel/big-ws.svg?branch=master)](https://travis-ci.org/albertorevel/big-ws) | I want to solve all the problems in order to finish the work | Quiero resolver todos los problemas con el fin de terminar el trabajo
