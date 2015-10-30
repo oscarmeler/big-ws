@@ -28,7 +28,7 @@ Adrian Moreno Jimeno | 631537
 Alberto Sabater Bailén | 546297 
 Agustin Navarro Torres | 587570 | [repo](https://github.com/SirBargus/big-ws) | [![Build Status] (https://travis-ci.org/SirBargus/big-ws.svg?branch=master)](https://travis-ci.org/SirBargus/big-ws) | Always take a banana to a party, Rose: bananas are good! |Siempre tome un plátano a una fiesta, Rosa: los plátanos son buenos!
 Alejandro Solanas Bonilla | 647647 
-Christian García Artero | 597578 
+Christian García Artero | 597578 | [repo](https://github.com/christianjaka94/big-ws) | [![Build Status](https://travis-ci.org/christianjaka94/big-ws.svg?branch=master)](https://travis-ci.org/christianjaka94/big-ws) | I didn't change, only learned, and learning is not to change is to grow | No cambié, sólo aprendí, y aprender no es cambiar es crecer
 Luis Jesus Pellicer | 520256 | [repo](https://github.com/luisjesuspellicer/big-ws) | [![Build Status] (https://travis-ci.org/luisjesuspellicer/big-ws.svg?branch=master)](https://travis-ci.org/luisjesuspellicer/big-ws) | My name is Luis and I want finish | Mi nombre es Luis y quiero terminar
 Marcos Ruiz García | 648045 
 Óscar Meler Murillo | 608919
