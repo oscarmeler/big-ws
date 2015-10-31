@@ -20,8 +20,8 @@ public class TranslatorServiceTest {
     TranslatorService translatorService;
     @Test
     public void translateTest() throws Exception {
-        TranslatedText translatedText = translatorService.translate("en", "es", "This is a test of translation service");
-        assertEquals("Esto es una prueba de servicio de traducción",translatedText.getTranslation());
+        TranslatedText translatedText = translatorService.translate("en", "es", "Years ago, I had a lot of dreams. Now what I have is dream and a lot of years");
+        assertEquals("Años atrás, yo tenía un montón de sueños. Ahora lo que tengo es sueño y un montón de años",translatedText.getTranslation());
     }
 
 }
