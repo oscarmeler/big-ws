@@ -31,7 +31,7 @@ Alejandro Solanas Bonilla | 647647
 Christian García Artero | 597578 | [repo](https://github.com/christianjaka94/big-ws) | [![Build Status](https://travis-ci.org/christianjaka94/big-ws.svg?branch=master)](https://travis-ci.org/christianjaka94/big-ws) | I didn't change, only learned, and learning is not to change is to grow | No cambié, sólo aprendí, y aprender no es cambiar es crecer
 Luis Jesus Pellicer | 520256 | [repo](https://github.com/luisjesuspellicer/big-ws) | [![Build Status] (https://travis-ci.org/luisjesuspellicer/big-ws.svg?branch=master)](https://travis-ci.org/luisjesuspellicer/big-ws) | My name is Luis and I want finish | Mi nombre es Luis y quiero terminar
 Marcos Ruiz García | 648045 
-Óscar Meler Murillo | 608919
+Óscar Meler Murillo | 608919 | [repo](https://github.com/oscarmeler/big-ws) | [![Build Status] (https://travis-ci.org/oscarmeler/big-ws.svg?branch=master)](https://travis-ci.org/oscarmeler/big-ws) | Years ago, I had a lot of dreams. Now what I have is dream and a lot of years | Años atrás, yo tenía un montón de sueños. Ahora lo que tengo es sueño y un montón de años
 Aron Collados Torres | 626558
 Diego Sánchez Castillo | 628279 | [repo](https://github.com/diegozgz92/big-ws) | [![Build Status] (https://travis-ci.org/diegozgz92/big-ws.svg?branch=master)](https://travis-ci.org/diegozgz92/big-ws) | I study in Zaragoza | Yo estudio en Zaragoza
 Rubén Gabás Celimendiz | 590738 | [repo](https://github.com/phyrionX/big-ws) | [![Build Status] (https://travis-ci.org/PhyrionX/big-ws.svg?branch=master)](https://travis-ci.org/PhyrionX/big-ws) | The world is mine | El mundo es mío
